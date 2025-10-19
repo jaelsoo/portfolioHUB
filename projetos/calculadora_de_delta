@@ -1,0 +1,30 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+
+int main(){
+
+    float a, b, c, x1, x2, delta;
+
+printf("\nInforme o valor de A: \n");
+scanf("%f", &a);
+printf("\nInforme o valor de B: \n");
+scanf("%f", &b);
+printf("\nInforme o valor de C: \n");
+scanf("%f", &c);
+
+delta = (pow(b,2) - 4*a*c);
+
+if (delta >= 0)
+{
+    x1 = ((-b + sqrt(delta))/ (2*a));
+    x2 = ((-b - sqrt(delta))/ (2*a));
+    printf("\nRaizes da equacao: %f, %f \n", x1, x2);
+}
+else
+{
+     printf("\nNao existem raizes reais\n");
+}
+
+return 0;
+}
