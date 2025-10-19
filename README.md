@@ -5,21 +5,21 @@ Esse portfólio é um repositório pessoal de informações e trabalhos profissi
 Oi! Eu sou o Jaelson.
 Sou estudante do primeiro semestre de Análise e Desenvolvimento de Sistemas. Gosto de pensar que a vida é um aprendizado constante e talvez seja por isso que eu me sinto tão à vontade explorando caminhos diversos, especialmente na área da tecnologia. Sou um cara curioso e questionador (INTP por aqui 👀), sempre procurando entender como as coisas funcionam e como posso conectar ideias novas e diferentes as coisas que eu já conheço e entendo. Acho que isso resume bem a forma como vejo meus estudos e um pouco da minha visão de mundo.
 
-Você pode visitar meu site para saber mais sobre mim! É só clicar [aqui](https://jaelsonidelfonso.my.canva.site/) 😃
+Você pode visitar meu site para saber mais sobre mim! É só clicar [`aqui`](https://jaelsonidelfonso.my.canva.site/) 😃
 
 ## Estrutura
-/teoricos : Projetos acadêmicos, como apresentações, relatórios e artigos.
+[**`/teoricos`**](https://github.com/jaelsoo/portfolioHUB/tree/main/teoricos) : Projetos acadêmicos, como apresentações, relatórios e artigos.
 
-/projetos : Projetos práticos de programação desenvolvidos como trabalhos acadêmicos.
+[**`/projetos`**](https://github.com/jaelsoo/portfolioHUB/tree/main/projetos) : Projetos práticos de programação desenvolvidos como trabalhos acadêmicos.
 
-/pessoais : Projetos de programação desenvolvidos como atividade de estudo e aprimoramento pessoal.
+[**`/pessoais`**](https://github.com/jaelsoo/portfolioHUB/tree/main/pessoais) : Projetos de programação desenvolvidos como atividade de estudo e aprimoramento pessoal.
 
 ## Entre em contato!
 
-[Email](mailto:jaelso.ais@gmail.com)
+[`Email`](mailto:jaelso.ais@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/jaelson-idelfonso/)
+[`LinkedIn`](https://www.linkedin.com/in/jaelson-idelfonso/)
 
-[Meu site](https://jaelsonidelfonso.my.canva.site/)
+[`Meu site`](https://jaelsonidelfonso.my.canva.site/)
 
-[Currículo](https://drive.google.com/file/d/1iNISyQi_N_awIjZspV8tYyPcLHgQQQrG/view)
+[`Currículo`](https://github.com/jaelsoo/portfolioHUB/blob/main/Curr%C3%ADculo%20de%20Jaelson%20Idelfonso%20.pdf)
