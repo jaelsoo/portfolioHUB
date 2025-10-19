@@ -1,0 +1,38 @@
+#include <stdlib.h>
+#include <math.h>
+
+int main(){
+
+    float a, b, resultado;
+    char operacao;
+
+    printf("\n CALCULADORA DE OPERACOES\n");
+    printf("\n Digite o primeiro valor: \n");
+    scanf("%f", & a);
+    printf("\n Digite o segundo valor: \n");
+    scanf("%f", & b);
+    printf("\n Digite a operacao desejada (+, -, * ou /): ");
+    scanf(" %c", & operacao);
+
+    switch (operacao){
+        case '+': resultado = a + b;
+        printf("\n O resultado da operacao e: %f\n", resultado);
+        break;
+
+        case '-': resultado = a - b;
+        printf("\n O resultado da operacao e: %f\n", resultado);
+        break;
+
+        case '*': resultado = a * b;
+        printf("\n O resultado da operacao e: %f\n", resultado);
+        break;
+
+        case '/':
+            if (b != 0){ resultado = a / b;
+            printf("\n O resultado da operacao e: %f\n", resultado);}
+            break;
+
+        default: printf("\n A operacao nao e valida! Tente novamente");
+    }
+    return 0;
+}
